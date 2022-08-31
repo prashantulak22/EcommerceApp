@@ -96,7 +96,7 @@ const Slider = () => {
           <Slide bg={items.bg}>
           <ImgContainer>
             <Image
-              src={model}
+              src={items.img}
               style={{ height: "76%", paddingLeft: "190px" }}
               />
           </ImgContainer>
